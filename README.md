@@ -1,6 +1,6 @@
 # IEEE Transactions on Cybernetics 2025 Paper Abstracts Portal
 
-To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from IEEE Transactions on Pattern Analysis and Machine Intelligence 2026 and created a webpage.
+To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts from Transactions on Cybernetics 2025 and created a webpage.
 
 This webpage is protected by copyright laws. Without the written permission of the owner of this webpage, no individual or organization shall use the content of this webpage in any form.
 
